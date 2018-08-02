@@ -2,6 +2,7 @@ tabby_cat = "\tI'm tabbed in."
 persian_cat = "I'm split\nOn a line"
 backslash_cat = "I'm \\ a \\ cat."
 
+# /t is tab
 fat_cat = """
 I'll do a list:
 \t* Cat food
